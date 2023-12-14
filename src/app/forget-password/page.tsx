@@ -27,7 +27,7 @@ export default function ForgetPasswordPage () {
           <Form.Input
             label='Correo'
             name='email'
-            placeholder='Ingresa tu correo...'
+            placeholder='correo@example.com'
           />
         </div>
         <Form.SubmitButton
